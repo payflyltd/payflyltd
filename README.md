@@ -1,8 +1,5 @@
-- 👋 Hi, codespace for @payflyltd
-- 👀 A fintech Company
-- 🌱 Building a prototype
+# HR Dashboard - Job Management System
 
-<!---
-payflyltd/payflyltd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A comprehensive HR dashboard for managing job postings with a clean separation between frontend and backend code.
+
+## Project Structure
